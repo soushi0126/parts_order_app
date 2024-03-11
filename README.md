@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# データベース設計
+[![Image from Gyazo](https://i.gyazo.com/0b19ec7e661a6fdb406e1a2d192b5e1a.png)](https://gyazo.com/0b19ec7e661a6fdb406e1a2d192b5e1a)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 画面遷移図
+[![Image from Gyazo](https://i.gyazo.com/cf0a78fd5b6b6b1d527effed9afb87ef.png)](https://gyazo.com/cf0a78fd5b6b6b1d527effed9afb87ef)
